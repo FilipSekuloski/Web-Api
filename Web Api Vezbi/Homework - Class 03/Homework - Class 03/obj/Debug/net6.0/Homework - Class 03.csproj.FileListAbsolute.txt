@@ -1,0 +1,32 @@
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\appsettings.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Homework - Class 03.exe
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Homework - Class 03.deps.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Homework - Class 03.runtimeconfig.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Homework - Class 03.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Homework - Class 03.pdb
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets\msbuild.Homework - Class 03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets\msbuild.build.Homework - Class 03.props
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Homework - Class 03.props
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Homework - Class 03.props
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\scopedcss\bundle\Homework - Class 03.styles.css
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.csproj.CopyComplete
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\refint\Homework - Class 03.dll
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.pdb
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\Homework - Class 03.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Seavus Filip S\Web Api Vezbi\Homework - Class 03\Homework - Class 03\obj\Debug\net6.0\ref\Homework - Class 03.dll
